@@ -1,7 +1,0 @@
-templates:
-  - cloudformation/**/*.yml
-ignore_templates:
-  - .pre-commit-config.yaml
-include_checks:
-  - I
-# custom_rules: custom_rules.txt
